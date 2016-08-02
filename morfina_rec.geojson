@@ -125,6 +125,25 @@
           6.210268871629114
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-07-15",
+        "venue": "Libido",
+        "capacity": 200,
+        "occupation": 80,
+        "lineup": "1000 cadaveres, Igor & Los Lunaticos, Apariciones Frecuentes, Green Fly, Morfina Rec dj set, Laura sonik Dj Set, Don Hector Dj set",
+        "added_by": "antropomorfa",
+        "city": "Medellin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56241989135742,
+          6.273857630969902
+        ]
+      }
     }
   ]
 }
