@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Jorge Iván Ospina. marimba",
+    "date": "2013-12-05 T 20:00:00",
+    "capacity": "156",
+    "occupation": "45",
+    "event_genres": "instrumental",
+    "lineup": "jorge_ivan_ospina",
+    "headliner": "Jorge Iván Ospina",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
+}

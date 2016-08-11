@@ -1,17 +1,19 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "origen": "Felisa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5620844,6.2096348
-        ]
-      }
-    }
-  ]
+  "type": "Feature",
+  "properties":
+  {
+    "venue": "Casa Teatro El Poblado",
+    "event": "Felisa. Geometría natural (lanzamiento)",
+    "date": "2015-11-12 T 20:00:00",
+    "capacity": "156",
+    "occupation": "111",
+    "event_genres": "",
+    "lineup": "felisa",
+    "headliner": "felisa",
+    "city": "medellin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.58072328567505, 6.18831537756351]
+  }
 }

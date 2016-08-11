@@ -4,12 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "origen": "BYRON SANCHEZ CUARTETO"
+        "test": "ñoño"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5650281,6.2069621
+          -104.4140625,
+          34.016241889667015
         ]
       }
     }
