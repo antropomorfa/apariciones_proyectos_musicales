@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Lux Manrique",
+        "date": "1984-09-22",
+        "city": "Medellin",
+        "event": "",
+        "capacity": 200,
+        "occupation": " ",
+        "price": "200",
+        "lineup": "Kraken, Opus",
+        "headliner": "Kraken",
+        "link": " ",
+        "added_by": "antropomorfa  ",
+        "address": "",
+        "start": "",
+        "end": "",
+        "other_events": "",
+        "news": "",
+        "founder": "",
+        "twitter_followers": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55500626564024,
+          6.26709624327406
+        ]
+      }
+    }
+  ]
+}
