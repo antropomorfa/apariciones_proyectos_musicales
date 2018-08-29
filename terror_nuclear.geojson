@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "headliner": "Ruleta Rusa (U.S.A)",
+        "venue": "Oficina Central de los Sueños",
+        "city": "Medellin",
+        "event": "Concierto",
+        "capacity": 120,
+        "lineup": "Ruleta Rusa (U.S.A), Antidiktatur (Bogotá),Broken Jaw (Bogotá), Exterminación (Medellín),Terror Nuclear (Medellín), RenKore (Medellín), O.D.I.O (Medellín), Krujido (Medellín)",
+        "occupation": 100,
+        "date": "2013-25-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56214898824692,
+          6.248736607670246
+        ]
+      }
+    }
+  ]
+}
